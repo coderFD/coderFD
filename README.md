@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderFD
+- 👋 Hi, we are @coderFD
 - 👀 we are interested to develop web apps and websites and web API's
 - 🌱 we are currently learning machine learning.
 - 💞️ I’m looking to collaborate on projects based on web (html,css,js,bootstrap,python & django).
